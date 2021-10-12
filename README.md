@@ -7,7 +7,7 @@ I  have designed the school website front end design using html, css, bootstrap
 
 #### 1. `HTML`
 #### 2. `CSS`
-####v3. `Bootstrap `
+#### 3. `Bootstrap `
 
 
 Step To Clone Repo
