@@ -20,7 +20,7 @@ Step To Clone Repo
 Site Screen Shorts 
 -----
 
-<img src="https://fxamar.github.io/school-website/master/Screenshot%20(591).png">
+<img src="https://fxamar.github.io/school-website/Screenshot%20(591).png">
 
 
 ### THANK YOU !!!
